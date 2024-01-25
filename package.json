@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "barcode": "^0.1.0",
+    "barcode-js": "^13.9.3174",
+    "bwip-js": "^4.1.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "generate-password": "^1.7.1",
+    "graphicsmagick": "^0.0.1",
+    "imagemagick": "^0.1.3",
+    "jimp": "^0.22.10",
+    "jsbarcode": "^3.11.6",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "node-cache": "^5.1.2",
+    "punycode": "^2.3.1",
+    "python": "^0.0.4",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
